@@ -24,7 +24,7 @@ Ensure that you have at least the **version 3.4.4** of [R](https://www.r-project
 
 To easily program in *R*, [RStudio](https://www.rstudio.com/) was used.
 
-The [h2o](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) platform is used for the [autoencode.R](https://github.com/thyriki/ClusteringOnWheat/blob/master/R/autoencode.R) *R script*, and it initialises a *JVM*. As such, [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) must also be installed and properly set up. The script was done with *Java version 8 - 64 bits*.
+The [h2o](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) platform is used for the [autoencode.R](https://github.com/thyriki/ClusteringOnWheat/blob/master/R/autoencode.R) *R script*, and it initialises a *JVM*. As such, [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) must also be installed and properly set up. The script was done with Java **version 8 - 64 bits**.
 
 Every script should be easy to run, after installing the necessary libraries (as found at the start of each script).
 
