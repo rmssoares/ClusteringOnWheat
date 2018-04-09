@@ -1,0 +1,63 @@
+--// DBSCAN RESULTS \\--
+As explained in the report, the results are implied to be borderline before doing three clusters. Except for 4 minPts, which did not provide a possible result with three clusters, due to its instability.
+
+ dbscan(seed, eps = 0.92, minPts = 4)
+   0   1   2   3   4 
+ 13 135   4  53   5 
+
+dbscan(seed, eps = 0.80, minPts = 5)
+  0   1   2   3 
+ 45 118  14  33 
+
+dbscan(seed, eps = 0.82, minPts = 6)
+  0   1   2   3 
+ 50 114  14  32 
+
+dbscan(seed, eps = 0.87, minPts = 8)
+  0   1   2   3 
+ 47 117  36  10 
+
+ dbscan(seed, eps = 1.04, minPts = 10)
+  0   1   2   3 
+ 25 134  16  35 
+
+dbscan(seed, eps = 0.935, minPts = 13)
+ 0  1  2  3 
+69 46 61 34 
+
+ dbscan(seed, eps = 0.995, minPts = 15)
+ 0  1  2  3 
+71 41 63 35 
+
+dbscan(seed, eps = 1.105, minPts = 18)
+ 0  1  2  3 
+63 50 63 34
+
+dbscan(seed, eps = 1.11, minPts = 20)
+ 0  1  2  3 
+66 49 61 34 
+
+dbscan(seed, eps = 1.2, minPts = 22)
+ 0  1  2  3 
+59 54 62 35 
+
+dbscan(seed, eps = 1.23, minPts = 23) --// The Best Result \\--
+ 0  1  2  3 
+55 59 59 37
+
+dbscan(seed, eps = 1.26, minPts = 24)
+ 0  1  2  3 
+55 59 60 36 
+
+dbscan(seed, eps = 1.27, minPts = 25)
+ 0  1  2  3 
+58 58 60 34 
+
+dbscan(seed, eps = 1.28, minPts = 26)
+ 0  1  2  3 
+60 58 59 33 
+
+dbscan(seed, eps = 1.345, minPts = 28)
+
+ 0  1  2  3 
+58 59 59 34 
