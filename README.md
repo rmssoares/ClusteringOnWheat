@@ -28,10 +28,11 @@ The [h2o](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) platform is 
 
 Every script should be easy to run, after installing the necessary libraries (as found at the start of each script).
 
-For any inquiries, feel free to open up an issue.
-
 ## Authors
 
 * **Ricardo Soares** - [thyriki](https://github.com/thyriki)
 
 * **Stelios Mouratidis** - [SteliosMouratidis](https://github.com/SteliosMouratidis)
+
+
+For any inquiries, feel free to open up an issue.
