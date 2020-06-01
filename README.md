@@ -30,7 +30,7 @@ Every script should be easy to run, after installing the necessary libraries (as
 
 ## Authors
 
-* **Ricardo Soares** - [thyriki](https://github.com/thyriki)
+* **Ricardo Soares** - [rmssoares](https://github.com/rmssoares)
 
 * **Stelios Mouratidis** - [SteliosMouratidis](https://github.com/SteliosMouratidis)
 
